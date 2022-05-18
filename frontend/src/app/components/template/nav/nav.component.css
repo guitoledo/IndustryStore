@@ -1,0 +1,19 @@
+/* Coloração da barra de navegação dos icones */
+.sidenav {
+    background-color: #3F51B5;
+    width: 200px;
+}
+/* Cor dos icones do site */
+.sidenav a {
+    color: #fff;
+}
+
+/* Espaçamento dos icones da escrita */
+.sidenav i {
+    padding-right: 10px;
+}
+
+.content {
+    padding: 16px;
+    background-color: #fff;
+}
