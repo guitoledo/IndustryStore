@@ -6,9 +6,9 @@ Projeto realizado no curso da cod3r, esse projeto foi desenvolvido para adiciona
 
 No site você informa o nome do produto que você deseja cadastrar e o preço dele. 
 
-Tecnologias utilizadas:
+**Tecnologias utilizadas:**
 
-HTML
+<ul>HTML<ul>
 CSS
 TYPESCRIPT
 ANGULAR
