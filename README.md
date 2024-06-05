@@ -2,7 +2,7 @@
 
 **Projeto IndustryStore**
 
-Projeto realizado no curso da cod3r, esse projeto foi desenvolvido para adicionar, excluir e editar produtos.
+Esse projeto foi desenvolvido para adicionar, excluir e editar produtos.
 
 No site você informa o nome do produto que você deseja cadastrar e o preço dele. 
 
